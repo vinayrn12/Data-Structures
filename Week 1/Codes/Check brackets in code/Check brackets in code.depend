@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596269958 source:d:\study\courses\algorithm specialization\data structure\week 1\codes\check brackets in code\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
