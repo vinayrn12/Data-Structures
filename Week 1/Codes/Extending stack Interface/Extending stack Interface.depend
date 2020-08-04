@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1596384013 source:d:\study\courses\algorithm specialization\data structure\week 1\codes\extending stack interface\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<vector>
+	<limits>
+

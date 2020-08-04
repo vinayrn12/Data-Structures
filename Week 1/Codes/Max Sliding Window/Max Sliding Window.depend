@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596462277 source:d:\study\courses\algorithm specialization\data structure\week 1\codes\max sliding window\main.cpp
+	<iostream>
+	<vector>
+	<limits>
+	<deque>
+
