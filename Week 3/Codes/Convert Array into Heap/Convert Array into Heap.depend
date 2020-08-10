@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596897681 source:d:\study\courses\algorithm specialization\data structure\week 3\codes\convert array into heap\main.cpp
+	<iostream>
+	<vector>
+
