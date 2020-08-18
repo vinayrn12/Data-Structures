@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597640513 source:d:\study\courses\algorithm specialization\data structure\week 6\codes\binary tree traversals\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

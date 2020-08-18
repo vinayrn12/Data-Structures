@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597305360 source:d:\study\courses\algorithm specialization\data structure\week 3\codes\substring equality\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1597321546 source:d:\study\courses\algorithm specialization\data structure\week 4\codes\substring equality\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

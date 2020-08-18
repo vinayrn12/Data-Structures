@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1597253329 source:d:\study\courses\algorithm specialization\data structure\week 4\codes\hashing with chains\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+	<algorithm>
+	<iterator>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597652420 source:d:\study\courses\algorithm specialization\data structure\week 6\codes\is it a bst\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

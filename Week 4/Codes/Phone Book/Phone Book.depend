@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597242938 source:d:\study\courses\algorithm specialization\data structure\week 4\codes\phone book\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<time.h>
+
